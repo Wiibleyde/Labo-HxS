@@ -139,7 +139,7 @@ Filière création et Digital Design : Motion Design : Besoin de bonnes personne
 - Nvidia GeForce RTX 3060 : Besoin de bonnes personnes graphiques (logiciels très gourmands type Adobe)
 
 Filière Audiovisuel : Post-Production : Besoin de beaucoup de RAM et de puissance graphique
-- [Asus ROG Zephyrus G14](https://www.topachat.com/pages/detail2_cat_est_ordinateurs_puis_rubrique_est_wport_puis_ref_est_in20009480.html)
+- [Asus ROG Zephyrus G14](https://www.topachat.com/pages/detail2_cat_est_ordinateurs_puis_rubrique_est_wport_puis_ref_est_in20009480.html) : Ultra portable
 - Ecran 14'' QHD (2560 x 1440) 120 Hz
 - AMD Ryzen 9 5900HS Octo-Core 3 GHz : Besoin de beaucoup de puissance de calcul donc un processeur puissant
 - 32 Go DDR4 (3200 MHz) : Besoin de beaucoup de RAM
@@ -147,7 +147,7 @@ Filière Audiovisuel : Post-Production : Besoin de beaucoup de RAM et de puissan
 - Nvidia GeForce RTX 3060 : Besoin de beaucoup de puissance de calcul (graphique aussi)
 
 Filière Marketing & Communication : Community Management : Besoin de pas beaucoup de puissance de calcul ni de RAM
-- [Lenovo ThinkPad P14s](https://www.topachat.com/pages/detail2_cat_est_ordinateurs_puis_rubrique_est_wport_puis_ref_est_in20015248.html)
+- [Lenovo ThinkPad P14s](https://www.topachat.com/pages/detail2_cat_est_ordinateurs_puis_rubrique_est_wport_puis_ref_est_in20015248.html) : Ultra portable
 - Ecran : 14" Full HD (1920 x 1080)
 - AMD Ryzen 7 PRO 5850U : Besoin de pas beaucoup de puissance de calcul
 - 32 Go DDR4 (3200 MHz) : Besoin de pas beaucoup de RAM
