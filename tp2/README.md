@@ -36,7 +36,7 @@ Cable management : Gérer les câbles pour avoir un PC propre
 **Choisir un ordi pour chaque filière (budget : env.2000):**
 Informatique :
 - Cybersécurité 
-- Data 
+- Data/IA
 - Infrastructure 
 - Développement WEB/mobile 
 - Développement logiciel 
@@ -119,4 +119,37 @@ Marketing & Communication :
 - AMD Ryzen 7 PRO 5850U : Suffisant pour la bureautique
 - 32 Go DDR4 (3200 MHz) : Suffisant pour la bureautique 
 - SSD 1 To : Suffisant pour la bureautique 
+- Pas de carte graphique dédiée (pas nécessaire pour la bureautique)
+
+**Choisir une spécialité par fillière et trouver un ordi correspondant :**
+- Filière Informatique : Data/IA : Besoin de beaucoup de RAM et de puissance de calcul
+- [Asus ROG Zephyrus G14](https://www.topachat.com/pages/detail2_cat_est_ordinateurs_puis_rubrique_est_wport_puis_ref_est_in20009480.html)
+- Ecran 14'' QHD (2560 x 1440) 120 Hz
+- AMD Ryzen 9 5900HS Octo-Core 3 GHz : Besoin de beaucoup de puissance de calcul donc un processeur puissant
+- 32 Go DDR4 (3200 MHz) : Besoin de beaucoup de RAM
+- SSD 1 To : Besoin de beaucoup de stockage
+- Nvidia GeForce RTX 3060 : Besoin de beaucoup de puissance de calcul (graphique aussi)
+
+- Filière création et Digital Design : Motion Design : Besoin de bonnes personnes graphiques
+- [Dell G15](https://www.topachat.com/pages/detail2_cat_est_ordinateurs_puis_rubrique_est_wport_puis_ref_est_in20014917.html)
+- Ecran 15.6'' Full HD (1920 x 1080) 165 Hz : Besoin de bonnes personnes graphiques
+- Intel Core i7-12700H 14-Core 3,5 GHz : Besoin de bonnes personnes graphiques
+- 32 Go DDR5 : Besoin de bonnes personnes graphiques (logiciels très gourmands)
+- SSD 1 To : Besoin de bonnes personnes graphiques (logiciels très gourmands)
+- Nvidia GeForce RTX 3060 : Besoin de bonnes personnes graphiques (logiciels très gourmands type Adobe)
+
+- Filière Audiovisuel : Post-Production : Besoin de beaucoup de RAM et de puissance graphique
+- [Asus ROG Zephyrus G14](https://www.topachat.com/pages/detail2_cat_est_ordinateurs_puis_rubrique_est_wport_puis_ref_est_in20009480.html)
+- Ecran 14'' QHD (2560 x 1440) 120 Hz
+- AMD Ryzen 9 5900HS Octo-Core 3 GHz : Besoin de beaucoup de puissance de calcul donc un processeur puissant
+- 32 Go DDR4 (3200 MHz) : Besoin de beaucoup de RAM
+- SSD 1 To : Besoin de beaucoup de stockage
+- Nvidia GeForce RTX 3060 : Besoin de beaucoup de puissance de calcul (graphique aussi)
+
+- Filière Marketing & Communication : Community Management : Besoin de pas beaucoup de puissance de calcul ni de RAM
+- [Lenovo ThinkPad P14s](https://www.topachat.com/pages/detail2_cat_est_ordinateurs_puis_rubrique_est_wport_puis_ref_est_in20015248.html)
+- Ecran : 14" Full HD (1920 x 1080)
+- AMD Ryzen 7 PRO 5850U : Besoin de pas beaucoup de puissance de calcul
+- 32 Go DDR4 (3200 MHz) : Besoin de pas beaucoup de RAM
+- SSD 1 To : Besoin de pas beaucoup de stockage
 - Pas de carte graphique dédiée (pas nécessaire pour la bureautique)
