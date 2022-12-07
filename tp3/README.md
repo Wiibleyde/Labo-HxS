@@ -28,9 +28,6 @@ Format carte mère :
 - ATX : 12" x 9.6" (30.5 x 24.4 cm)
 - Micro ATX : 9.6" x 9.6" (24.4 x 24.4 cm)
 - Mini ITX : 6.7" x 6.7" (17 x 17 cm)
-- 
-
-### Exposé Mélanie
 
 ## Ce que j'ai fait
 
