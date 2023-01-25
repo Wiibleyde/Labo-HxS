@@ -8,14 +8,14 @@ Le premier virus informatique est le Creeper, créé en 1971 par Bob Thomas. Il 
 
 ### La clé USB 
 
-Durée théorique de vie d'une clé USB : 75 ans.
+Durée théorique de vie d'une clé USB : 75 ans.  
 Permet une conservation des données même hors tension.
 
 ## Ce que j'ai fait
 
 ### Création d'une clé USB bootable
 
-Windows 10 mis sur clé avec Rufus.
+Windows 10 mis sur clé avec Rufus.  
 On a branché la clé et installé Windows 10 sur le HDD du PC monté précédemment.
 
 Puis nous avons installé Ubuntu sur le HDD du PC monté précédemment.
