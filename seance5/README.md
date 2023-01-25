@@ -10,3 +10,9 @@ Le record de débit en téléchargement est de 42,2 Tbit/s, réalisé en Austral
 
 ### Exploraiton du BIOS :
 
+* Visite du mode avancé
+* Visite du menu de boot
+* Exploration de notre BIOS
+    * Très différent de celui de Maxence
+    * Pas de mode avancé (HP)
+
