@@ -1,3 +1,5 @@
+# Séance 6 : Mise en place d'un OS sur un PC monté
+
 ## Ce que j'ai appris
 
 ### Premier virus informatique
