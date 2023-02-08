@@ -1,5 +1,12 @@
 # Séance7  : 
 
+Montage démontage de 3 ordinateurs chronométrés.
+
+Temps : 1h06 
+
+Remarques : 
+- Problème sur notre alimentation qui nous a retardé
+
 ## Point culture Bastien : 
 Premier ordinateur : ENIAC
 Créé en 1946 par John Mauchly et J. Presper Eckert
