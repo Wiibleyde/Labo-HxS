@@ -25,4 +25,11 @@ Il est composé de 8 instructions :
 
 Similaire au Ook, Spoon.
 
+## Point culture de Charlène :
 
+La disposition des touches de claviers 
+- QWERTY : Plus répendu, les touches sont disposées de manière à ce que les doigts ne se croisent pas. (séparer les letters les plus utilisées)
+- Dvorak : Plus rapide, les lettres les plus utilisées sont les plus proches. (séparer les lettres les plus utilisées)
+
+Moyenne : 40 MPM
+Reccord : Alphabet en 3 secondes
